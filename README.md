@@ -13,5 +13,5 @@ Bu script, **QB-Core framework'ü** için geliştirilmiş **tezgah (stash)** sis
 1. **Dosyaları** `resources/[qb]` klasörüne ekleyin.
 2. **Server.cfg’ye** şu satırı ekleyin:  
    ```ini
-   ensure qb-technical-table
+   ensure Echos-Tezgah
 
